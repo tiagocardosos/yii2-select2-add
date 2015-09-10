@@ -20,6 +20,6 @@
 			"yiisoft/yii2": "*"
 		},
 		"autoload": {
-			"psr-4": { "tiagocardosos\\select2-button\\": "" }
+			"psr-4": { "tiagocardosos\\select2Button\\": "" }
 		}
 }
